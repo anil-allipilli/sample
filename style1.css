@@ -111,10 +111,10 @@ ul h4 {
   list-style: none;
 }
 #main ul {
-  padding: 80px;
+  list-style: none;
 }
 #main ul {
-  color: red;
+  color: black;
 }
 
 #main ul li {
